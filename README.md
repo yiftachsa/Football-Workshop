@@ -16,12 +16,12 @@ Includes client side and server side.
 The system enables:
 <ul>
   <li>Fans - follow football games, players and teams.</li>
-  <li>Management of the league - assignments of games, players and teams into leagues and seasons according to national team policy.</li>
+  <li>Management of the league - assignments of games, players, and teams into leagues and seasons according to national team policy.</li>
 </ul>
 
-During the course we iterativly developed an interactive information system for the managment of fottball leagues. To manage the development process we used version control, project tracking services, and advanced design and engenieering methods. All the phases of development were done, including the formulation of requirements, analysis, design, implementation, testing and deployment.
+During the course, we iteratively developed an interactive information system for the management of football leagues. To manage the development process we used version control, project tracking services (Taiga), automated testing suits, and advanced design and engineering methods. All the phases of development were done, including the formulation of requirements, analysis, design, implementation (Java), testing, and deployment.
 
-Comprehansive tests report is included [here](https://docs.google.com/document/d/1a-Yec9r-1jHkZ-5xIV7uru9BEUQkesUx/edit?usp=sharing&ouid=114491885849604834268&rtpof=true&sd=true).
+Comprehensive tests report is included [here](https://docs.google.com/document/d/1a-Yec9r-1jHkZ-5xIV7uru9BEUQkesUx/edit?usp=sharing&ouid=114491885849604834268&rtpof=true&sd=true).
 Various testing methods were applied such as: 
 <ul>
   <li>Unit tests</li>
