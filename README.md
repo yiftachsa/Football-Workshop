@@ -9,7 +9,7 @@ This repository includes the final project submitted as part of the "Information
 
 
 
-### Football League Management System.
+## Football League Management System
 
 A system for managing league seasons for football games.
 Includes client side and server side. 
